@@ -1,0 +1,19 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@microsoft/agents-hosting-express": "^1.5.3"
+  },
+  "devDependencies": {
+    "@microsoft/teams-app-test-tool": "^0.2.27"
+  }
+}
